@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently learning **Docker and AWS Cloud.**
 
+- 👨‍💻 All of my projects are available at [https://harishsheoran.pages.dev/](https://harishsheoran.pages.dev/)
+
+- 📝 I regularly write articles on [https://devopsjourney.pages.dev/](https://devopsjourney.pages.dev/)
+
 - 📫 How to reach me **harishsheoran10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
