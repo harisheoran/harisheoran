@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [my website](https://harishsheoran.pages.dev/)
 
-- 📝 I regularly write articles on [DevOps Journey](https://devopsjourney.pages.dev/)
+- 📝 I am currently setting up my blog website.
 
-- 📫 How to reach me **harishsheoran10@gmail.com**
+- 📫 How to reach me **sheoranharis@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
