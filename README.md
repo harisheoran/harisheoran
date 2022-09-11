@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [my website](https://harishsheoran.pages.dev/)
 
-- 📝 Check out my blog at [Pirate Shell](https://pirate-shell.web.app/).
+- 📝 Check out my blog at [Pirate Shell](https://pirateshell.pages.dev/).
 
 - 📫 How to reach me **sheoranharis@protonmail.com**
 
