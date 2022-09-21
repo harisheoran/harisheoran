@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Harish</h1>
 <h3 align="center">Software Developer buidling cool stuff.</h3>
 
-- 🔭 I’m currently working on [Programmer Server](https://tranquil-peak-81556.herokuapp.com/blogserver/)
+[//](- 🔭 I’m currently working on [Programmer Server](https://tranquil-peak-81556.herokuapp.com/blogserver/)
 
-- 🌱 I’m currently learning **Docker and AWS Cloud.**
+- 🌱 I’m currently learning **GO.**
 
 - 👨‍💻 All of my projects are available at [my website](https://harishsheoran.pages.dev/)
 
