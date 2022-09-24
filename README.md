@@ -1,14 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Harish</h1>
-<h3 align="center">Software Developer buidling cool stuff.</h3>
+<h3 align="center">Software Developer.</h3>
 
 
 - 🌱 I’m currently learning **GO.**
 
-- 👨‍💻 All of my projects are available at [my website](https://harishsheoran.pages.dev/)
+- 👨‍💻 Check out my portfolio [my website](https://sheoranharis.github.io//)
 
-- 📝 Check out my blog at [Pirate Shell](https://pirateshell.pages.dev/).
+- 📝 Check out my blog at [Pirate Shell](https://harish.pages.dev/).
 
-- 📫 How to reach me **sheoranharis@protonmail.com**
+- 📫 Connect with me**[Connect](https://bio.link/sheoranharis)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
