@@ -6,7 +6,7 @@
 
 - 👨‍💻 Check out my [Portfolio](https://sheoranharis.github.io//)
 
-- 📝 Check out my [blog](https://harish.pages.dev/).
+- 📝 Read my [blog](https://harish.pages.dev/).
 
 - 📫 Connect with me [Connect](https://bio.link/sheoranharis)
 
