@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **GO.**
 
-- 👨‍💻 Check out my portfolio [my website](https://sheoranharis.github.io//)
+- 👨‍💻 Check out my [Portfolio](https://sheoranharis.github.io//)
 
 - 📝 Check out my [blog](https://harish.pages.dev/).
 
