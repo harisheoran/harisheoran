@@ -8,7 +8,7 @@
 
 - 📝 Check out my [blog](https://harish.pages.dev/).
 
-- 📫 Connect with me**[Connect](https://bio.link/sheoranharis)**
+- 📫 Connect with me [Connect](https://bio.link/sheoranharis)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
