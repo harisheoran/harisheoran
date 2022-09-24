@@ -6,7 +6,7 @@
 
 - 👨‍💻 Check out my portfolio [my website](https://sheoranharis.github.io//)
 
-- 📝 Check out my blog at [Pirate Shell](https://harish.pages.dev/).
+- 📝 Check out my [blog](https://harish.pages.dev/).
 
 - 📫 Connect with me**[Connect](https://bio.link/sheoranharis)**
 
