@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Android Development.**
 
-- 👨‍💻 Check out my [Portfolio](https://sheoranharis.github.io//)
+- 👨‍💻 Check out my [Portfolio](https://harish.pages.dev)
 
 - 📝 Read my [blog](https://sheoranharis.hashnode.dev/).
 
