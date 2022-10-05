@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer.</h3>
 
 
-- 🌱 I’m currently learning **GO.**
+- 🌱 I’m currently learning **Android Development.**
 
 - 👨‍💻 Check out my [Portfolio](https://sheoranharis.github.io//)
 
