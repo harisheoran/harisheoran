@@ -7,7 +7,7 @@
 
 - 👨‍💻 Connect with me & see my work at my [website](https://sheoranharis.github.io)
 
-- 📝 Read my blog here [https://sheoranharis.hashnode.dev/](https://sheoranharis.hashnode.dev/)
+- 📝 Read my blog here at [ Hashnode.](https://sheoranharis.hashnode.dev/)
 
 - 📫 How to reach me **harishsheoran10@protonmail.com**
 
