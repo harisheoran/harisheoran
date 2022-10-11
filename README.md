@@ -5,11 +5,10 @@
 
 - 🌱 I’m currently learning **Android Development.**
 
-- 👨‍💻 Connect me on Twitter. [https://twitter.com/harishtwts](https://twitter.com/harishtwts)
+- 👨‍💻 Connect with me on [Twitter.](https://twitter.com/harishtwts)
 
-- 📝 Read my blog at [https://sheoranharis.github.io](https://sheoranharis.github.io)
+- 📝 Visit my website at [here.](https://sheoranharis.github.io)
 
-- 📫 Conenct with me **sheoranharis.github.io**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
