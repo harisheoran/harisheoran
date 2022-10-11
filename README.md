@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/sheoranharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sheoranharis" height="30" width="40" /></a>
+
 <a href="https://twitter.com/harishtwts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harishtwts" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harishsheoran10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harishsheoran10" height="30" width="40" /></a>
 <a href="https://hashnode.com/sheoranharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="sheoranharis" height="30" width="40" /></a>
@@ -24,6 +24,7 @@
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uckl3xhmfea46nh57gvsb_fw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uckl3xhmfea46nh57gvsb_fw" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sheoranharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sheoranharis" height="30" width="40" /></a>
 <a href="/https://sheoranharis.github.io/android/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://sheoranharis.github.io/android/index.xml" height="30" width="40" /></a>
+  <a href="https://dev.to/sheoranharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sheoranharis" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
