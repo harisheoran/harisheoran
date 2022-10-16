@@ -15,7 +15,7 @@
 
 <p align="center">I am an Android Developer.</p>
 
-<img align="right"  width="400" src="https://giphy.com/clips/cameronpaulsmith-cat-typing-meme-nuufztgCvyJZIuSkgd">
+<!--<img align="right"  width="400" src="https://giphy.com/clips/cameronpaulsmith-cat-typing-meme-nuufztgCvyJZIuSkgd">-->
 
 <p align="left"> <a href="https://twitter.com/harishtwts" target="blank"><img src="https://img.shields.io/twitter/follow/harishtwts?logo=twitter&style=for-the-badge" alt="harishtwts" /></a> </p>
 
