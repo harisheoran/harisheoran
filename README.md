@@ -1,19 +1,32 @@
 <p>
   <h1 align="center"><b>Hello there, I'm Harish <img src="https://docs.google.com/uc?export=download&id=166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="" width="30"></h1>
 </p>
+
 <p align="center">
-<a href="https://juliaundeutsch.com/"><img src="https://img.shields.io/badge/LINKTREE-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
-<a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
-<a href="https://twitter.com/YuriDevAT"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://dev.to/yuridevat"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>&nbsp;
-<a href="https://yuridevat.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>&nbsp;
+<a href="https://twitter.com/harishtwts"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/harishsheoran01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
+  <a href="https://sheoranharis.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" /></a>&nbsp;
+<a href="https://sheoranharis.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>&nbsp;
+  <a href="https://www.reddit.com/user/haris958"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Hashnode" /></a>&nbsp;
 </p>
 <br />
 
 <p align="center">I am an Android Developer.</p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/harishtwts" target="blank"><img src="https://img.shields.io/twitter/follow/harishtwts?logo=twitter&style=for-the-badge" alt="harishtwts" /></a> </p>
+
+- 🔭 I’m currently learning on **Android Development.**
+
+- 👯 I’m looking to collaborate on **Android Opensource Project.**
+
+- 💬 Connect with me **[Twitter](https://twitter.com/harishtwts)**
+
+- 📫 How to reach me **harishsheoran10@protonmail.com**
+
+- ⚡ Read about my experience and blogs on **[Website](https://sheoranharis.github.io)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
