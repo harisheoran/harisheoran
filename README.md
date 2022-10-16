@@ -12,9 +12,6 @@
 
 <p align="center">I am an Android Developer.</p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/harishtwts" target="blank"><img src="https://img.shields.io/twitter/follow/harishtwts?logo=twitter&style=for-the-badge" alt="harishtwts" /></a> </p>
 
@@ -37,7 +34,8 @@
 
 
 ## 💻 Projects
-<!--| <a href="https://github.com/Antonio-Riccelli/fight-for-apollo-ticTacToe">Fight For Apollo<a/> | <a href="https://github.com/Antonio-Riccelli/react-markdown-previewer">Markdown Previewer</a>                          |                           
+
+<!-- |<a href="https://github.com/Antonio-Riccelli/fight-for-apollo-ticTacToe">Fight For Apollo<a/> | <a href="https://github.com/Antonio-Riccelli/react-markdown-previewer">Markdown Previewer</a>                          |                           
 | :----------------: | :-------------------------------------------: |
 | <img src="https://github.com/Antonio-Riccelli/fight-for-apollo-ticTacToe/raw/main/demo.gif" width="400" height="300"/> | <img src="https://github.com/Antonio-Riccelli/react-markdown-previewer/raw/main/demo.gif" width="400" height="300"/> | 
 | A Rocky IV-inspired Tic Tac Toe game made with React and CSS. | Real time markdown previewer made with React and CSS. |  
@@ -46,11 +44,6 @@
 | :-------------------------------------------: | :----------------: |
 | <img src="https://github.com/Antonio-Riccelli/js-roman-numeral-converter/raw/main/public/images/demo4.gif" width="400" height="300"/> | <img src="https://raw.githubusercontent.com/Antonio-Riccelli/mern-exercise-tracker-frontend/main/demo.gif" width="400" height="300"/>--> |
 
-
-
-<h2 align="center">My favorite projects 💻</h2>
-<br />
-<p>I was asked about these two projects a lot during my interviews - so check them out.</p>
 <br />
 <br />
 <p align="center">
