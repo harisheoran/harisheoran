@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-<a href="https://twitter.com/harishtwts"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/harishsheoran01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
-  <a href="https://sheoranharis.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" /></a>&nbsp;
-<a href="https://sheoranharis.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>&nbsp;
-  <a href="https://www.reddit.com/user/haris958"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Hashnode" /></a>&nbsp;
-   <a href="https://www.youtube.com/channel/UCkL3XhMfEA46NH57gVSb_Fw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;
-  <a href="mailto:harishsheoran10@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>&nbsp;
+<a href="https://twitter.com/harishtwts"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" target="_blank" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/harishsheoran01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" target="_blank" /></a>&nbsp;
+  <a href="https://sheoranharis.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" target="_blank" /></a>&nbsp;
+<a href="https://sheoranharis.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" target="_blank"/></a>&nbsp;
+  <a href="https://www.reddit.com/user/haris958"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Hashnode" target="_blank"/></a>&nbsp;
+   <a href="https://www.youtube.com/channel/UCkL3XhMfEA46NH57gVSb_Fw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/></a>&nbsp;
+  <a href="mailto:harishsheoran10@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /target="_blank"></a>&nbsp;
 </p>
 <br />
 
