@@ -55,14 +55,15 @@
 | <img src="https://github.com/Antonio-Riccelli/js-roman-numeral-converter/raw/main/public/images/demo4.gif" width="400" height="300"/> | <img src="https://raw.githubusercontent.com/Antonio-Riccelli/mern-exercise-tracker-frontend/main/demo.gif" width="400" height="300"/>|
 
 <br />
+-->
 <br />
+<h3 align="center"> 💼 Projects</h3>
 <p align="center">
-  <img width="400" src="https://github.com/sheoranharis/sheoranharis.github.io/blob/main/static/img/androidblogs/day8-5.jpg" />
- <a href="https://github.com/sheoranharis/sheoranharis.github.io">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=sheoranharis&repo=sheoranharis.github.io&theme=tokyonight"" />
+ <a href="https://github.com/sheoranharis/memeit">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=sheoranharis&repo=memeit&theme=tokyonight"" />
 </a>
-  
-</p>-->
+ 
+</p>
 
 <br />
 <p align="center">
