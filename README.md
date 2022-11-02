@@ -19,7 +19,7 @@
 
 <p align="left"> <a href="https://twitter.com/harishtwts" target="blank"><img src="https://img.shields.io/twitter/follow/harishtwts?logo=twitter&style=for-the-badge" alt="harishtwts" /></a> </p>
 
-- 🔭 I’m currently learning on **Android Development.**
+- 🔭 I’m currently learning **Android Development.**
 
 - 👯 I’m looking to collaborate on **Android Opensource Project.**
 
@@ -28,7 +28,6 @@
 - 📫 How to reach me **harishsheoran10@protonmail.com**
 
 - ⚡ Read about my experience and blogs on **[Website](https://sheoranharis.github.io)**
-
 
 
 
