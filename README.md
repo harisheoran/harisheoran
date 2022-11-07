@@ -23,7 +23,7 @@
 
 - 👯 I’m looking to collaborate on **Android Opensource Project.**
 
-- 💬 Connect with me **[Twitter](https://twitter.com/harishtwts)**
+- 💬 Connect with me on **[Twitter](https://twitter.com/harishtwts)**
 
 - 📫 How to reach me **harishsheoran10@protonmail.com**
 
