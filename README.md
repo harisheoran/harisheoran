@@ -67,5 +67,7 @@
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sheoranharis&theme=dracula&show_icons=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sheoranharis&theme=blue-green" width="410"/>
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheoranharis&theme=blue-green" width="410">-->                                                                                                             
+                                                                                                                   
 </p>
