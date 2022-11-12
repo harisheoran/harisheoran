@@ -57,13 +57,22 @@
 <br />
 -->
 <br />
+
 <h3 align="center"> 💼 Projects</h3>
+<p align="center">
+ <a href="https://github.com/sheoranharis/College-App">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=sheoranharis&repo=College-App&theme=blue-green" />
+</a>
+</p>  
 <p align="center">
  <a href="https://github.com/sheoranharis/memeit">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=sheoranharis&repo=memeit&theme=blue-green" />
 </a>
+ </p>
+
+
  
-</p>
+
 
 <br />
 <p align="center">
