@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://twitter.com/harisheoran"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" target="_blank" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/harishsheoran01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" target="_blank" /></a>&nbsp;
-  <a href="https://sheoranharis.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" target="_blank" /></a>&nbsp;
+  <a href="https://harisheoran.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" target="_blank" /></a>&nbsp;
 <a href="https://sheoranharis.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" target="_blank"/></a>&nbsp;
   <a href="https://www.reddit.com/user/haris958"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Hashnode" target="_blank"/></a>&nbsp;
    <a href="https://www.youtube.com/channel/UCkL3XhMfEA46NH57gVSb_Fw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/></a>&nbsp;
@@ -62,13 +62,13 @@
 
 <h3 align="center"> 💼 Projects</h3>
 <p align="center">
- <a href="https://github.com/sheoranharis/College-Android-App">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=sheoranharis&repo=College-Android-App&theme=blue-green" />
+ <a href="https://github.com/harisheoran/College-Android-App">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=harisheoran&repo=College-Android-App&theme=blue-green" />
 </a>
 </p>  
 <p align="center">
- <a href="https://github.com/sheoranharis/memeit">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=sheoranharis&repo=memeit&theme=blue-green" />
+ <a href="https://github.com/harisheoran/memeit">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=harisheoran&repo=memeit&theme=blue-green" />
 </a>
  </p>
 
@@ -78,7 +78,7 @@
 
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sheoranharis&theme=blue-green" width="410"/>
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheoranharis&theme=blue-green" width="410">-->                                                                                                             
+<img src="https://github-readme-stats.vercel.app/api?username=harisheoran&theme=blue-green" width="410"/>
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisheoran&theme=blue-green" width="410">-->                                                                                                             
                                                                                                                    
 </p>
