@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://twitter.com/harishtwts"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" target="_blank" /></a>&nbsp;
+<a href="https://twitter.com/harisheoran"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" target="_blank" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/harishsheoran01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" target="_blank" /></a>&nbsp;
   <a href="https://sheoranharis.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" target="_blank" /></a>&nbsp;
 <a href="https://sheoranharis.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" target="_blank"/></a>&nbsp;
@@ -17,13 +17,13 @@
 
 <!--<img align="right"  width="400" src="https://giphy.com/clips/cameronpaulsmith-cat-typing-meme-nuufztgCvyJZIuSkgd">-->
 
-<p align="left"> <a href="https://twitter.com/harishtwts" target="blank"><img src="https://img.shields.io/twitter/follow/harishtwts?logo=twitter&style=for-the-badge" alt="harishtwts" /></a> </p>
+<p align="left"> <a href="https://twitter.com/harisheoran" target="blank"><img src="https://img.shields.io/twitter/follow/harishtwts?logo=twitter&style=for-the-badge" alt="harishtwts" /></a> </p>
 
 - 🔭 I’m currently learning **Android Development**.
 
 - 👯 I’m looking to collaborate on **Android Opensource Project**.
 
-- 💬 Connect with me on **[Twitter](https://twitter.com/harishtwts).**
+- 💬 Connect with me on **[Twitter](https://twitter.com/harisheoran).**
 
 - 📫 How to reach me **harishsheoran10@protonmail.com**.
 
