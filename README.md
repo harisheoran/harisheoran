@@ -62,8 +62,8 @@
 
 <h3 align="center"> 💼 Projects</h3>
 <p align="center">
- <a href="https://github.com/harisheoran/College-Android-App">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=harisheoran&repo=College-Android-App&theme=blue-green" />
+ <a href="https://github.com/harisheoran/collegehub">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=harisheoran&repo=collegehub&theme=blue-green" />
 </a>
 </p>  
 <p align="center">
