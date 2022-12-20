@@ -25,9 +25,9 @@
 
 - 💬 Connect with me on **[Twitter](https://twitter.com/harisheoran).**
 
-- 📫 How to reach me **harishsheoran10@protonmail.com**.
+- 📫 Mail me at **harishsheoran10@protonmail.com**.
 
-- ⚡ Read about my experience and blogs on **[Website](https://sheoranharis.github.io)**.
+- ⚡ Read about my experience and blogs on **[Website](https://harishsheoran.github.io)**.
 
 
 
