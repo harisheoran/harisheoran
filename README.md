@@ -27,7 +27,7 @@
 
 - 📫 Mail me at **harishsheoran10@protonmail.com**.
 
-- ⚡ Read about my experience and blogs on **[Website](https://harishsheoran.github.io)**.
+- ⚡ Read about my experience and blogs on **[Website](https://harisheoran.github.io)**.
 
 
 
