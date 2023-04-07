@@ -21,7 +21,7 @@
 <br clear="both">
 ![Snake animation](https://github.com/harisheoran/harisheoran/blob/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://github.com/harisheoran/harisheoran/blob/2bec288a0808c13d9d8d25d1ff9f3b60a344f066/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/harisheoran/harisheoran/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
