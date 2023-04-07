@@ -13,12 +13,10 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
-
-<img src="https://raw.githubusercontent.com/harisheoran/harisheoran/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
 ###
 
 <br clear="both">
+
 ![Snake animation](https://github.com/harisheoran/harisheoran/blob/output/github-contribution-grid-snake.svg)
 
 ![Snake animation](https://github.com/harisheoran/harisheoran/blob/output/github-contribution-grid-snake.svg)
