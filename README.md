@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Harish, Android Developer.</p>
+<p align="left">I'm Harish, I am a passionate Android developer with a keen interest in modern tech and architecture. I am experienced with the Android platform and specialize in using Kotlin</p>
 
 ###
 
