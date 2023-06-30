@@ -16,19 +16,19 @@
   </a>
 </div>
 
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
+<h1 align="center">Hi 👋, I'm Harish Sheoran</h1>
+<h3 align="center">A passionate software developer from India.</h3>
 
-###
+- 🔭 I’m currently working on **Rick & Morty App**
 
-<p align="left">I'm Harish, I am a passionate Android developer with a keen interest in modern tech and architecture. I am experienced with the Android platform and specialize in using Kotlin</p>
+- 👯 I’m looking to collaborate on **Android Projects**
 
-###
+- 👨‍💻 All of my projects are available on my personal [website](https://harisheoran.github.io/).
+
+- 📫 Reach me **harisheoran01@gmail.com**
+
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -45,27 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<h3 align="center"> 💼 Projects</h3>
-<p align="center">
- <a href="https://github.com/harisheoran/collegehub">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=harisheoran&repo=collegehub&theme=blue-green" />
-</a>
-</p>  
-<p align="center">
- <a href="https://github.com/harisheoran/memeit">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=harisheoran&repo=memeit&theme=blue-green" />
-</a>
- </p>
-
-###
-
-
-![Snake animation](https://github.com/harisheoran/harisheoran/blob/output/github-contribution-grid-snake.svg)
-
 # 📊GitHub Stats :
 <p align="center">
   <img align="" src="https://github-readme-stats.vercel.app/api?username=harisheoran&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false">
@@ -74,6 +53,3 @@
 <p align="center">
   <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=harisheoran&theme=blue-green&hide_border=false">
  </p>
-
-
-
