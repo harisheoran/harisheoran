@@ -20,7 +20,7 @@
 <h1 align="center">Hi 👋, I'm Harish Sheoran</h1>
 <h3 align="center">A passionate software developer from India.</h3>
 
-- 🔭 I’m currently working on **Rick & Morty App**
+- 🔭 I’m currently building **Android Apps**
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
