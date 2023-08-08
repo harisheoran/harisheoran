@@ -26,7 +26,7 @@
 
 - 👨‍💻 All of my projects are available on my personal [website](https://harisheoran.github.io/).
 
-- 📫 Reach me **harisheoran205@gmail.com**
+- 📫 Reach me **harisheoran01@gmail.com**
 
 
 
