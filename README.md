@@ -52,4 +52,4 @@
                      
 <p align="center">
   <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=harisheoran&theme=blue-green&hide_border=false">
- </p>
+</p>
