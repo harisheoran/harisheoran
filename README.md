@@ -1,14 +1,5 @@
-<div align="right">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-
-###
-
-
-
-<h1 align="center">Hi 👋, I'm Harish</h1>
-<h3 align="center">A passionate full stack developer from India.</h3>
-
+<h1 align="left">Hello 👋, I'm Harish</h1>
+<h3 align="left">A passionate full stack developer from India.</h3>
 
 <p align="left"> <a href="https://twitter.com/harisheoran" target="blank"><img src="https://img.shields.io/twitter/follow/harisheoran?logo=twitter&style=for-the-badge" alt="harisheoran" /></a> </p>
 
@@ -23,6 +14,12 @@
 - 📫 How to reach me **harisheoran01@gmail.com**
 
 - 📄 Know about my experiences [https://harisheoran.github.io/resume/](https://harisheoran.github.io/resume/)
+
+
+<!--div align="right">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>-->
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -51,7 +48,7 @@
     <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" height="25" alt="firebase"  />
     <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="25" alt="sqlite"  />
     <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" height="25" alt="arch"  />
-    <img src=" 	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25" alt="git"  />
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25" alt="git"  />
 
 </p>
 
@@ -71,7 +68,7 @@
 
 # Wakatime Stats :
 <p align="center">
-  <img align="" src="">
+  <img align="" src="https://github-readme-stats.vercel.app/api/wakatime?username=harisheoran\&layout=compact">
 </p>
 
 <!--<p align="center">
