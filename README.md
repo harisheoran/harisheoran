@@ -23,6 +23,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Basic Hilt Demo App](https://harisheoran.hashnode.dev/basic-hilt-demo-app)
+- [Building App for my University](https://harisheoran.hashnode.dev/building-app-for-my-university)
+- [Deploy your website on Cloudflare.](https://harisheoran.hashnode.dev/deploy-your-website-on-cloudflare)
+- [Be Anonymous using Tor.](https://harisheoran.hashnode.dev/be-anonymous-using-tor)
+- [Privacy for everyone.](https://harisheoran.hashnode.dev/privacy-for-everyone)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
