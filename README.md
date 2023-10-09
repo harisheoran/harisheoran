@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/harisheoran" target="blank"><img src="https://img.shields.io/twitter/follow/harisheoran?logo=twitter&style=for-the-badge" alt="harisheoran" /></a> </p>
 
-- 🔭 I’m currently working on [Warriors Of Hind App](https://harisheoran.github.io/projects/warriorsofhind/) and [Sparrow bot](https://harisheoran.github.io/projects/sparrowbot/).
+- 🔭 I’m currently working on [Adi App](https://github.com/harisheoran/Adi).
 
 - 🌱 I’m currently learning **Android, CI/CD pipeline, Docker, & Cloud**.
 
-- 👯 I’m looking to collaborate on **Android & backend projects**.
+- 👯 I’m looking to collaborate on **DevOps & API projects**.
 
 - 👨‍💻 All of my projects are available on my [website](https://harisheoran.github.io/projects/).
 
