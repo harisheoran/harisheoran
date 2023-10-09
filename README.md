@@ -82,11 +82,6 @@
   <img align="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harisheoran&theme=highcontrast">
 </p>
 
-# Wakatime Stats :
-<p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api/wakatime?username=harisheoran\&layout=compact">
-</p>
-
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/harisheoran"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harisheoran" /></a></p><br><br>
