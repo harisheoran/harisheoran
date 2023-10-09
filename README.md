@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **harisheoran01@gmail.com**
 
-- 📄 Know about my experiences - [resume](https://harisheoran.github.io/resume/)
+- 📄 Know about my experiences - [resume](https://drive.google.com/drive/u/0/folders/1IPdGm9x5IiecaWJEzPrvbsXj5Dl3FbZG)
 
 
 <!--div align="right">
