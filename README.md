@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [Adi App](https://github.com/harisheoran/Adi).
 
-- 🌱 I’m currently learning **Android, CI/CD pipeline, Docker, & Cloud**.
+- 🌱 I’m currently learning **DevOps, CI/CD pipeline, Docker, & Cloud**.
 
-- 👯 I’m looking to collaborate on **DevOps & API projects**.
+- 👯 I’m looking to collaborate on **DevOps projects**.
 
 - 👨‍💻 All of my projects are available on my [website](https://harisheoran.github.io/projects/).
 
