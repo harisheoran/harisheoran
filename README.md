@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/harisheoran" target="blank"><img src="https://img.shields.io/twitter/follow/harisheoran?logo=twitter&style=for-the-badge" alt="harisheoran" /></a> </p>
 
-- 🔭 I’m currently working on [Adi App](https://github.com/harisheoran/Adi).
+<!--- 🔭 I’m currently working on [Adi App](https://github.com/harisheoran/Adi).-->
 
 - 🌱 I’m currently learning **DevOps, CI/CD pipeline, Docker, & Cloud**.
 
