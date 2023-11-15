@@ -1,6 +1,6 @@
 <h1 align="left">Hello 👋, I'm Harish</h1>
 
-<h3 align="left">A passionate full stack developer from India.</h3>
+<h3 align="left">DevOps Engineer.</h3>
 
 <p align="left"> <a href="https://twitter.com/harisheoran" target="blank"><img src="https://img.shields.io/twitter/follow/harisheoran?logo=twitter&style=for-the-badge" alt="harisheoran" /></a> </p>
 
