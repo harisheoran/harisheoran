@@ -24,11 +24,11 @@
 
 ### Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker and Node.js: A Love Story with Containers and Code &lpar;No Drama, Just Dockerama!&rpar;](https://harisheoran.hashnode.dev/docker-and-nodejs-a-love-story-with-containers-and-code-no-drama-just-dockerama)
 - [Ansible Unleashed: Practical Playbooks for Efficiency](https://harisheoran.hashnode.dev/ansible-unleashed-practical-playbooks-for-efficiency)
 - [Basic Hilt Demo App](https://harisheoran.hashnode.dev/basic-hilt-demo-app)
 - [Deploy your website on Cloudflare.](https://harisheoran.hashnode.dev/deploy-your-website-on-cloudflare)
 - [Be Anonymous using Tor.](https://harisheoran.hashnode.dev/be-anonymous-using-tor)
-- [Privacy for everyone.](https://harisheoran.hashnode.dev/privacy-for-everyone)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
