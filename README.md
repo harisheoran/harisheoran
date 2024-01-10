@@ -11,7 +11,7 @@
 | **Containerization**         | Docker                  | [Multi-Stage Docker Build of GO web server](https://harisheoran.github.io/projects/multi_stage_docker_go/) <br> [Containerized an Node JS & Mongo DB web app](https://harisheoran.github.io/projects/end_to_end_devops_project/) |
 | **Configuration Management** | Ansible                 | [Install Jenkins on EC2 and configure the web app on EC2](https://harisheoran.github.io/projects/end_to_end_devops_project/)                                                                                                     |       
 | **CI**                       | Jenkins, Github Actions | [Create Docker image & push to Docker Hub registry](https://harisheoran.github.io/projects/end_to_end_devops_project/)                                                                                                           |
-| **Programming Languages**    | Java, GO, Kotlin        | [Rick & Morty App](https://github.com/harisheoran/rick-morty-collection) [College Hub App](https://github.com/harisheoran/collegehub)                                                                                            |
+| **Programming Languages**    | Java, GO, Kotlin        | [Rick & Morty App](https://github.com/harisheoran/rick-morty-collection) <br> [College Hub App](https://github.com/harisheoran/collegehub)                                                                                       |
 | **SCM**                      | Github, Gitlab          | [Github Profile](https://github.com/harisheoran)                                                                                                                                                                                 |
 
 <!--div align="right">
