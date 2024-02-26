@@ -7,23 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/harisheoran" target="blank"><img src="https://img.shields.io/twitter/follow/harisheoran?logo=twitter&style=for-the-badge" alt="harisheoran" /></a> </p>
 
-| Domain                       | Skills/Tools            | Projects                                                                                                                                                                                                                         |
-|------------------------------|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Container Orchestration**  | Kubernetes              | [Kubernetes DevOps Integration](https://github.com/harisheoran/WebServer-Docker-CI-CD-k8s)                                                                                                                                       |
-| **Cloud**                    | AWS                     | [Deployed a Web app on AWS EC2](https://harisheoran.github.io/projects/end_to_end_devops_project/) <br> [Hosted an Static website on S3](https://harisheoran.github.io/projects/terraform_s3/)                                   |
-| **Infrastructure as Code**   | Terraform               | [Created AWS EC2 instance with security groups for a web app deployment](https://harisheoran.github.io/projects/end_to_end_devops_project/)                                                                                      |
-| **Containerization**         | Docker                  | [Multi-Stage Docker Build of GO web server](https://harisheoran.github.io/projects/multi_stage_docker_go/) <br> [Containerized an Node JS & Mongo DB web app](https://harisheoran.github.io/projects/end_to_end_devops_project/) |
-| **Configuration Management** | Ansible                 | [Install Jenkins on EC2 and configure the web app on EC2](https://harisheoran.github.io/projects/end_to_end_devops_project/)                                                                                                     |       
-| **CI**                       | Jenkins, Github Actions | [Create Docker image & push to Docker Hub registry](https://harisheoran.github.io/projects/end_to_end_devops_project/)                                                                                                           |
-| **CD**                       | Argo CD                 | [Kubernetes DevOps Integration](https://github.com/harisheoran/WebServer-Docker-CI-CD-k8s)                                                                                                                                       |
-| **Programming Languages**    | Java, GO, Kotlin        | [Rick & Morty App (in Kotlin)](https://github.com/harisheoran/rick-morty-collection) <br> [College Hub App (in Kotlin)](https://github.com/harisheoran/collegehub)                                                               |
-| **SCM**                      | Github, Gitlab          | [Github Profile](https://github.com/harisheoran)                                                                                                                                                                                 |
-
-<!--div align="right">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>-->
-
-
 ### Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [From Code to Cloud: A Hands-On DevOps Journey with Kubernetes Deployment](https://harisheoran.hashnode.dev/from-code-to-cloud-a-hands-on-devops-journey-with-kubernetes-deployment)
