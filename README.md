@@ -5,7 +5,6 @@
 - 💻 I am passionate about DevOps, Cloud related technologies, CNCF Projects.
 - 👨‍💻 Portfolio Website- https://harisheoran.github.io
 - 📄 [Resume Link](https://harisheoran.github.io/)
--  
 
 ### Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -16,9 +15,10 @@
 - [Deploy your website on Cloudflare.](https://harisheoran.hashnode.dev/deploy-your-website-on-cloudflare)
 <!-- BLOG-POST-LIST:END -->
 
+### Connect with me
 <div align="left">
   <a href="https://linkedin.com/in/harishsheoran01" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   </a>
   <a href="https://twitter.com/harisheoran" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
@@ -28,7 +28,6 @@
   </a>
 </div>
 
-###
   
 <h3 align="left">🛠 Language and tools</h3>
   <div align="left">
