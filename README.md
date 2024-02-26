@@ -54,17 +54,11 @@
 ##
 
 # 📊GitHub Stats :
-<p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api?username=harisheoran&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false">
-</p>
-                     
-<p align="center">
-  <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=harisheoran&theme=blue-green&hide_border=false">
-</p>
-
-<p align="center">
-  <img align="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harisheoran&theme=highcontrast">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harisheoran&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harisheoran&theme=blue-green&hide_border=false">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harisheoran&theme=highcontrast">
+</div>
 
 
 <h3 align="left">Support:</h3>
