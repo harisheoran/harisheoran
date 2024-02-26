@@ -1,11 +1,11 @@
----
 <h1 align="left">Hello 👋, I'm Harish</h1>
 
 <h3 align="left">DevOps Engineer. Open source Contributer</h3>
 
-
-
-<p align="left"> <a href="https://twitter.com/harisheoran" target="blank"><img src="https://img.shields.io/twitter/follow/harisheoran?logo=twitter&style=for-the-badge" alt="harisheoran" /></a> </p>
+- 💻 I am passionate about DevOps, Cloud related technologies, CNCF Projects.
+- 👨‍💻 Portfolio Website- https://harisheoran.github.io
+- 📄 [Resume Link](https://harisheoran.github.io/)
+-  
 
 ### Recent Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -16,19 +16,19 @@
 - [Deploy your website on Cloudflare.](https://harisheoran.hashnode.dev/deploy-your-website-on-cloudflare)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <div align="left">
-  <a href="https://www.linkedin.com/in/harishsheoran01" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://linkedin.com/in/harishsheoran01" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/harisheoran" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="mailto: harisheoran01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="harisheoran01@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</p>
+</div>
+
+###
   
 <h3 align="left">🛠 Language and tools</h3>
   <div align="left">
