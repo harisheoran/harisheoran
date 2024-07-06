@@ -6,11 +6,11 @@
 
 ### Connect with me
 <div align="left">
-  <a href="https://linkedin.com/in/harishsheoran01" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+  <a href="https://linkedin.com/in/harishsheoran" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin"/>
   </a>
   <a href="https://x.com/harisheoran" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://github.com/harisheoran/harisheoran/blob/main/img/x.svg" width="52" height="40" alt="Twitter"  />
   </a>
   <a href="harisheoran@protonmail.com" target="_blank">
     <img src="https://github.com/harisheoran/harisheoran/blob/main/img/mail.svg" width="52" height="40" alt="mail"  />
