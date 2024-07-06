@@ -2,7 +2,8 @@
 
 <h3 align="left">DevOps Engineer. Open source Contributer</h3>
 
-- 💻 I am passionate about DevOps, Cloud related technologies, CNCF Projects.
+- 💻 I am passionate about DevOps, Cloud-related technologies, and
+- CNCF Projects.
 - 👨‍💻 Portfolio Website- https://harisheoran.github.io
 - 📄 [Resume Link](https://harisheoran.github.io/)
 
