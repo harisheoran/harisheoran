@@ -3,27 +3,17 @@
 <h3 align="left">DevOps Engineer. Open source Contributer</h3>
 
 - 👨‍💻 Website- https://harisheoran.github.io
-- 📄 [Resume Link](https://harisheoran.github.io/)
-
-### Recent Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [From Code to Cloud: A Hands-On DevOps Journey with Kubernetes Deployment](https://harisheoran.hashnode.dev/from-code-to-cloud-a-hands-on-devops-journey-with-kubernetes-deployment)
-- [Docker and Node.js: A Love Story with Containers and Code &lpar;No Drama, Just Dockerama!&rpar;](https://harisheoran.hashnode.dev/docker-and-nodejs-a-love-story-with-containers-and-code-no-drama-just-dockerama)
-- [Ansible Unleashed: Practical Playbooks for Efficiency](https://harisheoran.hashnode.dev/ansible-unleashed-practical-playbooks-for-efficiency)
-- [Basic Hilt Demo App](https://harisheoran.hashnode.dev/basic-hilt-demo-app)
-- [Deploy your website on Cloudflare.](https://harisheoran.hashnode.dev/deploy-your-website-on-cloudflare)
-<!-- BLOG-POST-LIST:END -->
 
 ### Connect with me
 <div align="left">
   <a href="https://linkedin.com/in/harishsheoran01" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   </a>
-  <a href="https://twitter.com/harisheoran" target="_blank">
+  <a href="https://x.com/harisheoran" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="harisheoran01@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="harisheoran@protonmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
