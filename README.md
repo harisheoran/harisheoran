@@ -51,14 +51,5 @@
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="25" alt="postman" style="display: inline-block;"/>
 </div>
 
-##
-
-# 📊GitHub Stats :
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harisheoran&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harisheoran&theme=blue-green&hide_border=false">
-</div>
-
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/harisheoran"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harisheoran" /></a></p><br><br>
