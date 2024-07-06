@@ -13,7 +13,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="harisheoran@protonmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" width="52" height="40" alt="gmail logo"  />
+    <img src="./img/mail.svg" width="52" height="40" alt="mail"  />
   </a>
 </div>
 
