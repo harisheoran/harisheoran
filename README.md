@@ -1,6 +1,6 @@
 <h1 align="left">Hello 👋, I'm Harish</h1>
 
-<h3 align="left">DevOps Engineer | Go Developer | Open source Contributer</h3>
+<h3 align="left">Engineer</h3>
 
 - 👨‍💻 <img src="https://img.shields.io/website?url=https%3A%2F%2Fharisheoran.github.io" height="22" alt="website" style="display: inline-block;" /> **https://harisheoran.github.io**
 - 📫 How to reach me **harisheoran@protonmail.com**
